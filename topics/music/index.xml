@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Stephen Ross</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Stephen Ross</description>
+    <title>Music on Stephen Ross</title>
+    <link>http://localhost:1313/topics/music/</link>
+    <description>Recent content in Music on Stephen Ross</description>
     <generator>Hugo</generator>
     <language>en-ca</language>
     <lastBuildDate>Tue, 17 Jun 2025 16:55:18 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/topics/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alfred Brendel, 1931-2025</title>
       <link>http://localhost:1313/posts/brendel/</link>
       <pubDate>Tue, 17 Jun 2025 16:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/brendel/</guid>
       <description>Today I heard that Alfred Brendel passed away. His recordings of Schubert, Beethoven and Mozart are some of my favourites, but he was also a keen writer and critic. His essays are just as worth reading as his recordings are worth listening. So in remembrance, I thought I&amp;rsquo;d share a bit of the opening to &amp;ldquo;Schubert&amp;rsquo;s Last Sonatas.&amp;rdquo;&#xA;Schubert&amp;rsquo;s death deprived us of a wealth of possible masterpieces, though hardly, as Franz Grillparzer&amp;rsquo;s epitaph suggests, of even fairer accomplishment.</description>
-    </item>
-    <item>
-      <title>Science and Art</title>
-      <link>http://localhost:1313/posts/science-and-art/</link>
-      <pubDate>Sun, 23 Feb 2025 19:58:13 -0500</pubDate>
-      <guid>http://localhost:1313/posts/science-and-art/</guid>
-      <description>These are some stray thoughts on the relationship between science and art. If I had enough time, they would form the kernel of a larger essay. I still wrote them anyway, because at least then I might end up picking the thread up again later! They are in decent enough shape as is that I don&amp;rsquo;t mind sharing them here.&#xA;1. It&amp;rsquo;s tempting to think that science and art have little to do with each other.</description>
     </item>
   </channel>
 </rss>
