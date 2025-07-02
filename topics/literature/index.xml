@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Literature on Stephen Ross</title>
+    <link>http://localhost:1313/topics/literature/</link>
+    <description>Recent content in Literature on Stephen Ross</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 01 Jul 2025 21:37:04 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/topics/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy Canada Day!</title>
+      <link>http://localhost:1313/posts/canada-day/</link>
+      <pubDate>Tue, 01 Jul 2025 21:37:04 -0400</pubDate>
+      <guid>http://localhost:1313/posts/canada-day/</guid>
+      <description>To mark Canada Day, I thought I&amp;rsquo;d share a poem by Don McKay, a highly underrated Canadian poet. This is &amp;ldquo;Song for the Song of the Canada Geese,&amp;rdquo; from his 2012 collection Paradoxides. He has a longrunning series of poems about birds across several of his books, all with the title &amp;ldquo;Song for the Song of &amp;hellip;,&amp;rdquo; and they tend to be some of his best (in my humble opinion, anyway).</description>
+    </item>
+  </channel>
+</rss>
