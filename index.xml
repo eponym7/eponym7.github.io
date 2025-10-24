@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen Ross</title>
-    <link>http://localhost:1313/</link>
+    <link>https://stephenagross.ca/</link>
     <description>Recent content on Stephen Ross</description>
     <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Tue, 01 Jul 2025 21:37:04 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://stephenagross.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happy Canada Day!</title>
-      <link>http://localhost:1313/posts/canada-day/</link>
-      <pubDate>Tue, 01 Jul 2025 21:37:04 -0400</pubDate>
-      <guid>http://localhost:1313/posts/canada-day/</guid>
-      <description>To mark Canada Day, I thought I&amp;rsquo;d share a poem by Don McKay, a highly underrated Canadian poet. This is &amp;ldquo;Song for the Song of the Canada Geese,&amp;rdquo; from his 2012 collection Paradoxides. He has a longrunning series of poems about birds across several of his books, all with the title &amp;ldquo;Song for the Song of &amp;hellip;,&amp;rdquo; and they tend to be some of his best (in my humble opinion, anyway).</description>
+      <link>https://stephenagross.ca/posts/canada-day/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/posts/canada-day/</guid>
+      <description>&lt;p&gt;To mark Canada Day, I thought I&amp;rsquo;d share a poem by Don McKay, a highly underrated Canadian poet. This is &amp;ldquo;Song for the Song of the Canada Geese,&amp;rdquo; from his 2012 collection &lt;em&gt;Paradoxides&lt;/em&gt;. He has a longrunning series of poems about birds across several of his books, all with the title &amp;ldquo;Song for the Song of &amp;hellip;,&amp;rdquo; and they tend to be some of his best (in my humble opinion, anyway).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alfred Brendel, 1931-2025</title>
-      <link>http://localhost:1313/posts/brendel/</link>
-      <pubDate>Tue, 17 Jun 2025 16:55:18 -0400</pubDate>
-      <guid>http://localhost:1313/posts/brendel/</guid>
-      <description>Today I heard that Alfred Brendel passed away. His recordings of Schubert, Beethoven and Mozart are some of my favourites, but he was also a keen writer and critic. His essays are just as worth reading as his recordings are worth listening. So in remembrance, I thought I&amp;rsquo;d share a bit of the opening to &amp;ldquo;Schubert&amp;rsquo;s Last Sonatas.&amp;rdquo;&#xA;Schubert&amp;rsquo;s death deprived us of a wealth of possible masterpieces, though hardly, as Franz Grillparzer&amp;rsquo;s epitaph suggests, of even fairer accomplishment.</description>
+      <link>https://stephenagross.ca/posts/brendel/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/posts/brendel/</guid>
+      <description>&lt;p&gt;Today I heard that Alfred Brendel passed away. His recordings of Schubert, Beethoven and Mozart are some of my favourites, but he was also a keen writer and critic. His essays are just as worth reading as his recordings are worth listening. So in remembrance, I thought I&amp;rsquo;d share a bit of the opening to &amp;ldquo;Schubert&amp;rsquo;s Last Sonatas.&amp;rdquo;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Schubert&amp;rsquo;s death deprived us of a wealth of possible masterpieces, though hardly, as Franz Grillparzer&amp;rsquo;s epitaph suggests, of even fairer accomplishment. The last three sonatas should not be taken as a final message. As far as we know, they were composed in the brief period between May and September 1828. The fair copy was made just a few weeks before Schubert died of typhoid, his constitution already weakened by syphilis and by a burst of productivity frantic even by his standards. Since the death of his mother, he may have had to come to terms with a growing awareness of his mortality. Yet, when he completed his last sonatas (and most probably the C major Quintet) in the autumn of 1828, it seems to me that he had no intimation of imminent death.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Science and Art</title>
-      <link>http://localhost:1313/posts/science-and-art/</link>
-      <pubDate>Sun, 23 Feb 2025 19:58:13 -0500</pubDate>
-      <guid>http://localhost:1313/posts/science-and-art/</guid>
-      <description>These are some stray thoughts on the relationship between science and art. If I had enough time, they would form the kernel of a larger essay. I still wrote them anyway, because at least then I might end up picking the thread up again later! They are in decent enough shape as is that I don&amp;rsquo;t mind sharing them here.&#xA;1. It&amp;rsquo;s tempting to think that science and art have little to do with each other.</description>
+      <link>https://stephenagross.ca/posts/science-and-art/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/posts/science-and-art/</guid>
+      <description>&lt;p&gt;These are some stray thoughts on the relationship between science and art. If I had enough time, they would form the kernel of a larger essay. I still wrote them anyway, because at least then I might end up picking the thread up again later! They are in decent enough shape as is that I don&amp;rsquo;t mind sharing them here.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1&#34;&gt;1.&lt;/h3&gt;&#xA;&lt;p&gt;It’s tempting to think that science and art have little to do with each other. Science unveils reality, while art expresses human creativity. Of course, even on such a view, there is some comparison. Both involve making and improving something: in their daily work, scientists write and revise much as creative writers do, or repair and calibrate equipment much as an artist or musician would in their studio. Many of the basic activities in science and art resemble each other. There have also been historical episodes where science and art overlapped: think of harmony and mathematics in ancient Greece, or the geometry of linear perspective in Renaissance Italy, or photography in the 19th century, or data visualisation in today’s cosmology and astronomy. But perhaps these connections are superficial. Aren’t the aims of science and art are fundamentally different? Truth is objective, while the aims of art are subjective. They might borrow tools from each other like neighours, applying scientific procedures to artistic work, or artistic techniques to advance scientific research.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; But in science those tools enable discovery, whereas in art they spur invention. So it cannot follow that science and art share a deeper connection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Academics</title>
-      <link>http://localhost:1313/academics/</link>
+      <link>https://stephenagross.ca/academics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/academics/</guid>
-      <description>You can see my CV here.&#xA;And you can contact me at rosss23@mcmaster.ca&#xA;Doctoral Candidate I am a doctoral candidate in philosophy at McMaster University under the supervision of Dr. Alex Klein.&#xA;Dissertation Research: How far can we tolerate or encourage differences between scientific representations? When do differences become conflicts which researchers need to resolve? Some scientific pluralists walk a tightrope, trying to allow as many differences to coexist as possible without tarnishing science&amp;rsquo;s objectivity.</description>
+      <guid>https://stephenagross.ca/academics/</guid>
+      <description>&lt;p&gt;You can see my CV &lt;a href=&#34;https://stephenagross.ca/academics/CV_stephenross_july2025.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;And you can contact me at&#xA;&lt;a href=&#34;mailto:rosss23@mcmsater.ca&#34;&gt;rosss23@mcmaster.ca&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;doctoral-candidate&#34;&gt;Doctoral Candidate&lt;/h3&gt;&#xA;&lt;p&gt;I am a doctoral candidate in philosophy at McMaster University under the&#xA;supervision of &lt;a href=&#34;https://experts.mcmaster.ca/display/kleina7&#34;&gt;Dr. Alex&#xA;Klein&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;figure class=&#34;no-border&#34;&gt;&lt;img src=&#34;https://stephenagross.ca/academics/mcmaster-logo.png&#34; width=&#34;126&#34; height=&#34;167&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Dissertation Research&lt;/strong&gt;: How far can we tolerate or encourage&#xA;differences between scientific representations? When do differences&#xA;become conflicts which researchers need to resolve? Some scientific&#xA;pluralists walk a tightrope, trying to allow as many differences to&#xA;coexist as possible without tarnishing science&amp;rsquo;s objectivity. But these&#xA;goals work at crosspurposes; allowing differences to coexist undermines&#xA;the friction between alternatives in scientific debate, while objecivity&#xA;requires such friction to support research standards. The evolutionary&#xA;synthesis (c. 1920-1950) illustrates this well: heated debate between&#xA;genetics and evolutionary science led both to a new consensus and to&#xA;many new avenues of debate. Because of this inescapable tension, there&#xA;is a tendency for pluralists to be relativists.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stephen Ross</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://stephenagross.ca/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>I&amp;rsquo;m a Canadian philosophy student nearing the end of my PhD, and a classical musician (I play the piano).&#xA;What is this website for? It&amp;rsquo;s partly an alternative to having social media profiles. But I also want to write here. As a friend of mine put it:&#xA;This is gonna sound corny and hippie as all hell but I think there’s something to say for a travelogue of the mind, dude.</description>
+      <guid>https://stephenagross.ca/about/</guid>
+      <description>&lt;p&gt;I’m a Canadian philosophy student nearing the end of my PhD, and a classical musician (I play the piano).&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-is-this-website-for&#34;&gt;What is this website for?&lt;/h3&gt;&#xA;&lt;p&gt;It’s partly an alternative to maintaining social media profiles. But I also want to write here. As a friend of mine put it:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This is gonna sound corny and hippie as all hell but I think there’s something to say for a travelogue of the mind, dude. I think it would be super far out for people to document their academic explorations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

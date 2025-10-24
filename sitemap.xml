@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-01T21:37:04-04:00</lastmod>
+    <loc>https://stephenagross.ca/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/canada/</loc>
-    <lastmod>2025-07-01T21:37:04-04:00</lastmod>
+    <loc>https://stephenagross.ca/tags/canada/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/canada-day/</loc>
-    <lastmod>2025-07-01T21:37:04-04:00</lastmod>
+    <loc>https://stephenagross.ca/posts/canada-day/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/literature/</loc>
-    <lastmod>2025-07-01T21:37:04-04:00</lastmod>
+    <loc>https://stephenagross.ca/tags/literature/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/poetry/</loc>
-    <lastmod>2025-07-01T21:37:04-04:00</lastmod>
+    <loc>https://stephenagross.ca/tags/poetry/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/</loc>
-    <lastmod>2025-07-01T21:37:04-04:00</lastmod>
+    <loc>https://stephenagross.ca/posts/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/brendel/</loc>
-    <lastmod>2025-06-17T16:55:18-04:00</lastmod>
+    <loc>https://stephenagross.ca/topics/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/music/</loc>
-    <lastmod>2025-06-17T16:55:18-04:00</lastmod>
+    <loc>https://stephenagross.ca/posts/brendel/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/art/</loc>
-    <lastmod>2025-02-23T19:58:13-05:00</lastmod>
+    <loc>https://stephenagross.ca/tags/music/</loc>
+    <lastmod>2025-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/philosophy/</loc>
-    <lastmod>2025-02-23T19:58:13-05:00</lastmod>
+    <loc>https://stephenagross.ca/tags/art/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/topics/science/</loc>
-    <lastmod>2025-02-23T19:58:13-05:00</lastmod>
+    <loc>https://stephenagross.ca/tags/philosophy/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/science-and-art/</loc>
-    <lastmod>2025-02-23T19:58:13-05:00</lastmod>
+    <loc>https://stephenagross.ca/tags/science/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
+    <loc>https://stephenagross.ca/posts/science-and-art/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/academics/</loc>
+    <loc>https://stephenagross.ca/academics/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://stephenagross.ca/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://stephenagross.ca/about/</loc>
   </url>
 </urlset>

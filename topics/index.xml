@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Stephen Ross</title>
-    <link>http://localhost:1313/topics/</link>
+    <link>https://stephenagross.ca/topics/</link>
     <description>Recent content in Topics on Stephen Ross</description>
     <generator>Hugo</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Tue, 01 Jul 2025 21:37:04 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/topics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://stephenagross.ca/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Canada</title>
-      <link>http://localhost:1313/topics/canada/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/canada/</guid>
+      <link>https://stephenagross.ca/tags/canada/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/canada/</guid>
       <description></description>
     </item>
     <item>
       <title>Literature</title>
-      <link>http://localhost:1313/topics/literature/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/literature/</guid>
+      <link>https://stephenagross.ca/tags/literature/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/literature/</guid>
       <description></description>
     </item>
     <item>
       <title>Poetry</title>
-      <link>http://localhost:1313/topics/poetry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/poetry/</guid>
+      <link>https://stephenagross.ca/tags/poetry/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/poetry/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/topics/music/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/music/</guid>
+      <link>https://stephenagross.ca/tags/music/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/topics/art/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/art/</guid>
+      <link>https://stephenagross.ca/tags/art/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>http://localhost:1313/topics/philosophy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/philosophy/</guid>
+      <link>https://stephenagross.ca/tags/philosophy/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/philosophy/</guid>
       <description></description>
     </item>
     <item>
       <title>Science</title>
-      <link>http://localhost:1313/topics/science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/topics/science/</guid>
+      <link>https://stephenagross.ca/tags/science/</link>
+      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://stephenagross.ca/tags/science/</guid>
       <description></description>
     </item>
   </channel>
